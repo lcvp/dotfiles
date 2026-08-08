@@ -1,6 +1,4 @@
 vim.o.number = true
-vim.o.relativenumber = true
-vim.cmd.colorscheme("catppuccin")
 
 vim.pack.add({
 	{ src = "https://github.com/neovim/nvim-lspconfig" },
